@@ -9,3 +9,5 @@ Jerry Mouse is a fictional character and one of the two main protagonists in Met
 * Fearless
 
 > Jerry Mouse is a mouse. He cannot speak, as there is no word to quote.
+
+<img scr="https://f0.pngfuel.com/png/859/924/jerry-character-clip-art-png-clip-art.png" />
