@@ -7,3 +7,5 @@ Jerry Mouse is a fictional character and one of the two main protagonists in Met
 * Strength: He is shown to pick up larger items than his size and use it against Tom or any other enemies. 
 * Smart
 * Fearless
+
+> Jerry Mouse is a mouse. He cannot speak, as there is no word to quote.
